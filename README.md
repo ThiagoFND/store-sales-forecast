@@ -4,6 +4,9 @@ Este projeto implementa a Fase 1 descrita no PDF: agrega vendas **mensalmente po
 cria *features* temporais, treina e compara modelos (Regressão Linear, Decision Tree, Random Forest),
 e gera um relatório com as métricas.
 
+Extraia o arquivo raw.rar e coloque train.csv e test.csv em data/raw/
+(do dataset Kaggle Store Sales – Time Series Forecasting).
+
 ## 📦 Estrutura
 ```
 project/
